@@ -3,5 +3,7 @@ streamlit
 opencv-python
 pillow
 python-docx
+opnecv-python-headless
+
 
 
