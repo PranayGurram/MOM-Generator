@@ -1,0 +1,8 @@
+google.generativeai
+os
+streamlit
+numpy
+opencv-python
+pillow
+python-docx
+
